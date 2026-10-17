@@ -1,5 +1,5 @@
 # EWB AI&ML Internship Project
-## Students Database API
+## Students Database CRUD Application
 
 A Python backend for managing student records (CRUD) with an optional local AI assistant.
 Built with **FastAPI**, **SQLite** (via SQLAlchemy) and **Ollama** (`llama3.2:1b`).
@@ -239,3 +239,9 @@ Example response:
 | Slow first answer | The model loads into memory on first use; later calls are faster |
 
 A 1B-parameter model is small, so keep questions simple (counts, lookups by name or course).
+
+## Acknowledgements:
+
+I would like to extend my sincere gratitude to our Mentor and the entire team at **EWB Edu Tech Pvt. Ltd.** for organizing this intensive 1-month AI & Machine Learning internship. 
+
+This program provided an invaluable hands-on experience, helping me bridge the gap between theoretical AI/ML concepts and practical, production-ready backend integrations. A special thanks to the internship organizers and mentors for their well-structured guidance, constant support, and for providing a platform that truly accelerates professional growth.
