@@ -1,4 +1,5 @@
-# EWB Edu Tech Students Database API
+# EWB AI&ML Internship Project
+## Students Database API
 
 A Python backend for managing student records (CRUD) with an optional local AI assistant.
 Built with **FastAPI**, **SQLite** (via SQLAlchemy) and **Ollama** (`llama3.2:1b`).
